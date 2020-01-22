@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">5ea10731-8c63-4c01-919d-badc1aa29dfe</string>
+    <string name="app_name">MDFielder</string>
+</resources>
