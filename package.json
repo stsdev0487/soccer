@@ -34,7 +34,7 @@
     "moment": "^2.22.2",
     "native-base": "^2.10.0",
     "prop-types": "^15.6.2",
-    "qs": "^6.6.0",
+    "qs": "^6.6.1",
     "react": "16.6.1",
     "react-native": "0.57.7",
     "react-native-action-button": "^2.8.5",
